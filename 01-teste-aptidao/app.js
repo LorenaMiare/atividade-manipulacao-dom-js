@@ -14,7 +14,7 @@ function avaliarTempo(){
         caixaResultado.classList.add  ('nao-apto')
         caixaResultado.classList.remove('apto')
     }
-
+ 
 }
 botaoAvaliar.addEventListener('click', avaliarTempo)
 
